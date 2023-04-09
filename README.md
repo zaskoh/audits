@@ -2,11 +2,6 @@
 
 This repository contains a collection of my personal smart contract security audits, findings, and contributions.
 
-## Contact
-I am available for smart contract security consulting.
-
-Reach out to me on Twitter [@0xzaskoh](https://twitter.com/0xzaskoh)
-
 ## Audits
 
 | Platform                                                                                        | Audit                                                        | High | Medium | Low |
@@ -52,3 +47,10 @@ QuillCTF is a series of Capture The Flag (CTF) challenges focused on Ethereum sm
 | [Slot Puzzle](https://quillctf.super.site/challenges/quillctf-challenges/slot-puzzle)       | slot-puzzle-TBA                                     |
 | [Gold NFT](https://quillctf.super.site/challenges/quillctf-challenges/gold-nft)             | gold-nft-TBA                                        |
 | [PseudoRandom](https://quillctf.super.site/challenges/quillctf-challenges/pseudorandom)     | pseudorandom-TBA                                    |
+
+---
+
+## Contact
+I am available for smart contract security consulting.
+
+Reach out to me on Twitter [@0xzaskoh](https://twitter.com/0xzaskoh)
