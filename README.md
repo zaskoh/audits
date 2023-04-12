@@ -11,18 +11,18 @@ This repository contains a collection of my personal smart contract security aud
 | [Code4rena - #5](https://code4rena.com/contests/2023-01-ondo-finance-contest)                   | [2023-01-ondo](/code4rena/2023-01-ondo.md)                   | 1    | 0      | 3   |
 | [Sherlock - #17](https://app.sherlock.xyz/audits/contests/36)                                   | [2023-01-cooler](/sherlock/2023-01-cooler.md)                | 2    | 1      | 7   |
 | [Solidity Lab](https://github.com/poodlTech/tokenAudit)                                         | [2023-03-poodl](/solidity-lab/2023-03-poodl.md)              | 4    | 2      | 7   |
+| [Code4rena - #8](https://code4rena.com/contests/2023-01-rabbithole-quest-protocol-contest)      | [2023-01-rabbithole](/code4rena/2023-01-rabbithole.md)       | 1    | 3      | 8   |
 
 ---
 
 ## Judging / Review phase
 As soon as the judging is finished or I have the permission to share them, I will add the report to the repository.
 
-| Platform                                                                                   | Audit                  | High | Medium | Low |
-| ------------------------------------------------------------------------------------------ | ---------------------- | ---- | ------ | --- |
-| [Code4rena - #35](https://code4rena.com/contests/2023-01-astaria-contest)                  | 2023-01-astaria-TBA    | 0    | 2      | 9   |
-| [Code4rena - #8](https://code4rena.com/contests/2023-01-rabbithole-quest-protocol-contest) | 2023-01-rabbithole-TBA | 1    | 3      | 8   |
-| Solidity Lab                                                                               | 2023-03-TBA            | 2    | 6      | 9   |
-| Secure3                                                                                    | 2023-04-TBA            | 2    | 2      | 5   |
+| Platform                                                                  | Audit               | High | Medium | Low |
+| ------------------------------------------------------------------------- | ------------------- | ---- | ------ | --- |
+| [Code4rena - #35](https://code4rena.com/contests/2023-01-astaria-contest) | 2023-01-astaria-TBA | 0    | 2      | 9   |
+| Solidity Lab                                                              | 2023-03-TBA         | 2    | 6      | 9   |
+| Secure3                                                                   | 2023-04-TBA         | 2    | 2      | 5   |
 
 ---
 
