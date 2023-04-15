@@ -45,8 +45,9 @@ QuillCTF is a series of Capture The Flag (CTF) challenges focused on Ethereum sm
 | [Donate](https://quillctf.super.site/challenges/quillctf-challenges/donate)                 | [donate](/quillctf/donate.md)                       |
 | [Moloch’s Vault](https://quillctf.super.site/challenges/quillctf-challenges/molochs-vault)  | [molochs-vault](/quillctf/molochs-vault.md)         |
 | [Slot Puzzle](https://quillctf.super.site/challenges/quillctf-challenges/slot-puzzle)       | [slot-puzzle](/quillctf/slot-puzzle.md)             |
-| [Gold NFT](https://quillctf.super.site/challenges/quillctf-challenges/gold-nft)             | gold-nft-TBA                                        |
+| [Gold NFT](https://quillctf.super.site/challenges/quillctf-challenges/gold-nft)             | [gold-nft](/quillctf/gold-nft.md)                   |
 | [PseudoRandom](https://quillctf.super.site/challenges/quillctf-challenges/pseudorandom)     | pseudorandom-TBA                                    |
+| [Invest Pool](https://quillctf.super.site/challenges/quillctf-challenges/invest-pool)       | invest-pool-TBA                                     |
 
 ---
 
